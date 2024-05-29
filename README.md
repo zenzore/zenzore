@@ -1,5 +1,8 @@
-<link rel='stylesheet' href="assets/style.css">
+<body style="font-family: 'Lexend', sans-serif">
+
 
 <img class="profile" style="width: 100px; height: 100px;" src="assets/pic.jpeg">
 
-<p>Hi, </p>
+
+<p>Hello There</p>
+</body>
