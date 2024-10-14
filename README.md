@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ShopTique**
 
-- 🌱 I’m currently learning **PHP, Rust, and Go Language**
+- 🌱 I’m currently learning **PHP, Rust, and Go Languages**
 
 - 💬 Ask me about **react, nextjs, python**
 
@@ -13,7 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/zxayler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zxayler" height="30" width="40" /></a>
 <a href="https://fb.com/zenzxay.bruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zenzxay.bruh" height="30" width="40" /></a>
+<a href="https://instagram.com/zenzxay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenzxay" height="30" width="40" /></a>
+<a href="https://discord.gg/WN83XB6dmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WN83XB6dmp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
